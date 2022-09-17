@@ -1,1 +1,1 @@
-# FatCat
+# The FatCat Game miniplatformer is a project created on the Unity platform for Windows. The goal of the game is to get a certain amount of points by eating the good objects and avoiding the bad ones. The game implements several game scripts (moving a cat, spawning objects, eating them) in C # and also animation of the movements of the cat itself.
