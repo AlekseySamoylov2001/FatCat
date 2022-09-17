@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e81deb2654c6ac741b081e3f1cd467df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - burger: {fileID: 931023565972822376, guid: 7312cfe4255eac442b59a00a6d2cd66d, type: 3}
+  - crazyburger: {fileID: 4478969511659316112, guid: 6cdd9e87611ae3745956aed6482a6819,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
